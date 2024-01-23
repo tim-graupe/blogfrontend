@@ -1,5 +1,7 @@
 # Blog App Frontend
 
+Live build https://blogposter.netlify.app/new_post
+
 This repository contains the frontend code for a simple and user-friendly Blog App. The application is designed to provide an intuitive and engaging platform for users to read and interact with blog posts.
 
 ## Features
